@@ -10,10 +10,10 @@ Dans le cadre d'un exercice en PHP dans mon [école](https://www.hetic.net/), no
 cliquer sur ce lien https://dev.mysql.com/doc/sakila/en/sakila-installation.html pour télécharger la bd SAKILA.
 
 ### Contraintes imposées
-- L'ordinateur doit séléctionner 3 mots d'une liste
-- L'ordinateur doit décomposer chaque mots, mélanger les lettres des 3 mots et supprimer les lettres en double puis les afficher au joueur
-- Le joueur doit deviner les 3 mots cachés. L'ordinateur doit dire si les propositions sont bonnes ou mauvaises
-- Mettre une option pour que le joueur puisse quitter la manche <br>
+- Parcourir toute la base données avec un navigateur en cliquant.
+- Pouvoir ajouter des choses dans la base de données.
+- Pouvoir supprimer des choses dans la base de données.
+- Voir la base de donnée plus en détails.
 
 ### Technologie utilisée
 
