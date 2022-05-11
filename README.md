@@ -8,19 +8,14 @@ S'amélioré en php et mysql.
 ### Pourquoi 
 Dans le cadre d'un exercice en PHP dans mon [école](https://www.hetic.net/), nous avons eu pour exercice de faire un site pour la base de données [Sakila](https://dev.mysql.com/doc/sakila/en/). Lors de la réalisation de ce projet je savais coder en PHP et MySql depuis à peine quelques semaines.<br>
 
-### Installation
-Télécharger mon fichier scrabble.py et lancer le sur votre terminale ou bien executez le code depuis Visual Studio Code.
+### Installation de la base de données
+cliquer sur ce lien https://dev.mysql.com/doc/sakila/en/sakila-installation.html pour télécharger la bd SAKILA.
 
 ### Contraintes imposées
 - L'ordinateur doit séléctionner 3 mots d'une liste
 - L'ordinateur doit décomposer chaque mots, mélanger les lettres des 3 mots et supprimer les lettres en double puis les afficher au joueur
 - Le joueur doit deviner les 3 mots cachés. L'ordinateur doit dire si les propositions sont bonnes ou mauvaises
 - Mettre une option pour que le joueur puisse quitter la manche <br>
-
-### Fonctionnalitées bonus 
-- Créer un menu <br>
-- Faire une "interface graphique" pour rendre le jeu plus agréable <br>
-- Créer un compteur de points totaux.<br>
 
 ### Technologie utilisée
 
