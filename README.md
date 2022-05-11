@@ -23,3 +23,4 @@ cliquer sur ce lien https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 ### Capture d'écran
 
 <img src="https://eexterminateur.ca/wp-content/uploads/2021/10/maladies-transmissibles-pigeon-c-1-1200x900.jpeg"></img>
+<img src=""C:\Users\PC\Desktop\img all.png""></img>
