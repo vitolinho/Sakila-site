@@ -1,7 +1,5 @@
 ### <p align="center">Site pour la base de données de Sakila</p>
 
-
-
 ### But de l'exercice
 S'amélioré en php et mysql.
 
