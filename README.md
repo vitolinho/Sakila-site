@@ -10,7 +10,7 @@ Dans le cadre d'un exercice en PHP dans mon [école](https://www.hetic.net/), no
 cliquer sur ce lien https://dev.mysql.com/doc/sakila/en/sakila-installation.html pour télécharger la bd SAKILA.
 
 ### Contraintes imposées
-- Parcourir toute la base données avec un navigateur en cliquant.
+- Parcourir toute la base données avec un navigateur cliquable.
 - Pouvoir ajouter des choses dans la base de données.
 - Pouvoir supprimer des choses dans la base de données.
 - Voir la base de donnée plus en détails.
