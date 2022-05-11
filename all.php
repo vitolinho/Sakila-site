@@ -24,12 +24,6 @@
         <li><a href="films.php" target="_blank">Films</a></li>
         <li><a href="category.php" target="_blank">Catégories</a></li>
     </ul>
-
-    <h2>Db_aviation</h2>
-    <ul>
-        <li><a href="/Exercices/db_aviation-sites/compagnies.php" target="_blank">Compagnies</a></li>
-        <li><a href="/Exercices/db_aviation-sites/pilots.php" target="_blank">Pilotes</a></li>
-    </ul>
     </section>
 </body>
 </html>
