@@ -21,3 +21,16 @@ cliquer sur ce lien https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 ![MYSQL](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 
 ### Capture d'écran
+<p>Navigateur base de données:</p>
+<img width="50%" src="images/img all.png"/>
+<p>Films:</p>
+<img width="50%" src="images/films.png"/>
+<p>Catégories:</p>
+<img width="50%" src="images/categories.png"/>
+<p>Acteurs:</p>
+<p align="center">
+  <img width="50%" src="images/acteurs.png"/>
+  <img width="50%" src="images/acteurs2.png"/>
+</p>
+<p>Ajouter un acteur:</p>
+<img width="50%" src="images/ajtacteur.png"/>
