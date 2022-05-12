@@ -23,14 +23,16 @@ cliquer sur ce lien https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 ### Capture d'écran
 <p>Navigateur base de données:</p>
 <img width="50%" src="images/img all.png"/>
+<hr>
 <p>Films:</p>
 <img width="50%" src="images/films.png"/>
+<hr>
 <p>Catégories:</p>
 <img width="50%" src="images/categories.png"/>
+<hr>
 <p>Acteurs:</p>
-<p align="center">
-  <img width="50%" src="images/acteurs.png"/>
-  <img width="50%" src="images/acteurs2.png"/>
-</p>
+<img width="50%" src="images/acteurs.png"/>
+<img width="50%" src="images/acteur2.png"/>
+<hr>
 <p>Ajouter un acteur:</p>
 <img width="50%" src="images/ajtacteur.png"/>
